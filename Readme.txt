@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+URL: https://aquarel3.netlify.app
+Author: Joao Farisse Chirindja 
 
-Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
